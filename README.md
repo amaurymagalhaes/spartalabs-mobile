@@ -63,6 +63,17 @@ Na tela das Cidades, arraste o Card da cidade para a direita.
 Irá aparecer uma lixeira com fundo vermelho.
 Aperte nessa lixeira.
 
+## Bibliotecas
+- Styled-components
+- Async-Storage
+- React-Navigation
+- Axios
+- Moment
+- React-Native-Google-Places-Autocomplete
+- React-Native-Vector-Icons
+- ESLint
+- Prettier
+
 ## Ideias
 - Widgets do aplicativo, como mostrar na tela de bloqueio a temperatura da cidade atual.
 - Notificações com mudanças bruscas de temperatura, como chuvas fortes.
